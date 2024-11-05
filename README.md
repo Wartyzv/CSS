@@ -1,2 +1,5 @@
 # ISH Shell
-```script```
+```apk add update```
+```apk add upgrade```
+```apk add python3```
+``````
